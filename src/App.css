@@ -1,0 +1,9 @@
+.bg{
+    background-color: rgb(63, 63, 195);
+}
+.background{
+    background-color: rgb(247, 246, 246);
+    border-radius: 20px;
+    box-shadow:2px 1px rgb(168, 168, 233);
+}
+@import 'tailwindcss'
